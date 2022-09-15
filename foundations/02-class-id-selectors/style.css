@@ -1,0 +1,26 @@
+.index-1 {
+background-color: rgb(245, 136, 154);
+font-size: 24px
+font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+.index {
+    background-color: rgb(245, 136, 154);
+    font-size: 24px
+    font-family: Verdana, DejaVu Sans, sans-serif
+    }
+
+.c {
+font-size: 24px;
+}
+
+#n-1 {
+color:blue;
+font-size: 36px;
+}
+
+#n-2 {
+background-color: aquamarine;
+font-size: 24px;
+font-weight: bold;
+}
