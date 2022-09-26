@@ -8,8 +8,36 @@ img {
 }
 
 .title {
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+  margin: 0;
   font-size: 36px;
   font-weight: 900;
+}
+
+.container {
+  display: flex;
+}
+
+.text {
+  padding: 32px;
+}
+
+.texta {
+  flex-grow: 1;
+}
+
+.textb {
+  flex-grow: 1;
+}
+
+.textc {
+  flex-grow: 1;
+}
+
+.textd {
+  flex-grow: 1;
 }
 
 /* do not edit this footer */
