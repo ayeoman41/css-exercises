@@ -5,10 +5,10 @@
 }
 
 .container {
-  grid-template-columns: 1fr 4fr;
   text-align: center;
   display: grid;
   grid-template-columns: 1fr 4fr;
+  grid-auto-columns: minmax(100px, auto);
   gap: 4px;
 }
 
